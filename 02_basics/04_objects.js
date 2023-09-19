@@ -44,7 +44,7 @@ const users = [
         email: "h@gmail.com"
     },
 ]
-
+  
 users[1].email
 // console.log(tinderUser);
 
